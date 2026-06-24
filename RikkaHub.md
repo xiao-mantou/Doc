@@ -27,6 +27,12 @@ type: "adaptive"
 effort: "max"  
 }  
 ```
+`cache_control`  
+```
+{  
+type: "ephemeral"
+}  
+```
 ## 模型选择
 回到主页
 ![img](./img/ChangeM.jpg)
